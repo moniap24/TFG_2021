@@ -1,0 +1,13 @@
+Name;PSNR;SSIM
+Satelite_Molinos2_SR_lanczos;28,6947;0,6058
+Satelite_Molinos3_SR_lanczos;27,7071;0,4824
+Satelite_Molinos_SR_lanczos;27,6084;0,4233
+Satelite_Urbano2_SR_lanczos;27,7949;0,1160
+Satelite_Urbano3_SR_lanczos;27,7391;0,1135
+Satelite_Urbano4_SR_lanczos;27,7926;0,1837
+Satelite_Urbano_SR_lanczos;27,7339;0,2146
+Satelite_Vegetacion2_SR_lanczos;27,7581;0,1785
+Satelite_Vegetacion3_SR_lanczos;27,6388;0,1680
+Satelite_Vegetacion_SR_lanczos;28,3034;0,1667
+Satelite_Viales2_SR_lanczos;27,6902;0,1324
+Satelite_Viales_SR_lanczos;27,9153;0,4277

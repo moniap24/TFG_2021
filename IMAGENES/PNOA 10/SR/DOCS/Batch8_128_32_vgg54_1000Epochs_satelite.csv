@@ -1,0 +1,13 @@
+Name;PSNR;SSIM
+Satelite_Molinos2_SR;28,7142;0,5113
+Satelite_Molinos3_SR;28,0581;0,4287
+Satelite_Molinos_SR;28,0282;0,4182
+Satelite_Urbano2_SR;27,8203;0,1160
+Satelite_Urbano3_SR;27,7677;0,1104
+Satelite_Urbano4_SR;27,7995;0,1696
+Satelite_Urbano_SR;27,8578;0,2148
+Satelite_Vegetacion2_SR;27,8672;0,1853
+Satelite_Vegetacion3_SR;27,6883;0,1912
+Satelite_Vegetacion_SR;28,3377;0,1575
+Satelite_Viales2_SR;27,6805;0,1555
+Satelite_Viales_SR;28,0795;0,3610
