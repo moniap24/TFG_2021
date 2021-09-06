@@ -1,0 +1,13 @@
+Name;PSNR;SSIM
+Satelite_Molinos2_1024x1024;28,5179;0,6050
+Satelite_Molinos3_1024x1024;28,0334;0,4934
+Satelite_Molinos_1024x1024;27,8974;0,4590
+Satelite_Urbano2_1024x1024;27,8153;0,1237
+Satelite_Urbano3_1024x1024;27,7509;0,1179
+Satelite_Urbano4_1024x1024;27,8044;0,1862
+Satelite_Urbano_1024x1024;27,8239;0,2317
+Satelite_Vegetacion2_1024x1024;27,8443;0,1955
+Satelite_Vegetacion3_1024x1024;27,6547;0,1899
+Satelite_Vegetacion_1024x1024;28,3768;0,1700
+Satelite_Viales2_1024x1024;27,6725;0,1570
+Satelite_Viales_1024x1024;28,0822;0,4350
