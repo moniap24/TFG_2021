@@ -1,7 +1,7 @@
 % DEMO
 
-img1 = imread('/Users/monica/Documents/TFG/IMAGENES/PNOAMA/LR/256x256/PNOA_MA_Molino_256x256.png');
-img2 = imread('/Users/monica/Documents/TFG/IMAGENES/PNOAMA/MEJORES RESULTADOS/SRFBN/1_SRFBN-S_x4_BI/PNOA_MA_Molino_SR.png');
+img1 = imread('./IMAGENES/PNOAMA/LR/256x256/PNOA_MA_Molino_256x256.png');
+img2 = imread('./IMAGENES/PNOAMA/MEJORES RESULTADOS/SRFBN/1_SRFBN-S_x4_BI/PNOA_MA_Molino_SR.png');
 
 fig = figure(); 
 ax(1) = axes('Units','normalized','Position', [ .1 .1 .4 .8]);
